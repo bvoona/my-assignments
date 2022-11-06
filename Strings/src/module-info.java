@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bvoona
+ *
+ */
+module Strings {
+}
